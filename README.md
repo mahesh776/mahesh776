@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Transformers,Diffusion Models**
 
-- 🌱 I’m currently learning **Deep learning Reinforcement learning**
+- 🌱 I’m currently learning **Deep learning,Reinforcement learning**
 
 - 🤝 I’m looking for help with **Trading project,Automatic Traffic light control sytem**
 
